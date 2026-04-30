@@ -41,7 +41,7 @@ A desktop-based Library Management System built using JavaFX and MySQL that allo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/library-management-javafx-mysql.git
+   git clone https://github.com/rashmi0934/library-management-javafx-mysql.git
    ```
 
 2. Create MySQL database:
